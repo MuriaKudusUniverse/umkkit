@@ -15,5 +15,12 @@
             "name": "Universitas Muria Kudus",
             "email": "developer@umk.ac.id"
         }
-    ]
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Umkdev\\Umkkit\\UmkServiceProvider"
+            ]
+        }
+    }
 }
