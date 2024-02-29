@@ -1,0 +1,19 @@
+{
+    "name": "umkdev/umkkit",
+    "description": "Package Starter Kit untuk pengembangan aplikasi baru di Universitas Muria Kudus",
+    "require": {
+        "php": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Umkdev\\Umkkit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Universitas Muria Kudus",
+            "email": "developer@umk.ac.id"
+        }
+    ]
+}
