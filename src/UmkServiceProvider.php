@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Umkdev\Umkkit;
 
 use Illuminate\Contracts\Support\DeferrableProvider;
 use Illuminate\Support\ServiceProvider;
