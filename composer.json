@@ -1,10 +1,9 @@
 {
     "name": "umkdev/umkkit",
+    "version": "0.0.1",
     "description": "Package Starter Kit untuk pengembangan aplikasi baru di Universitas Muria Kudus",
     "require": {
-        "php": "^8.0",
-        "illuminate/console": "^10.17",
-        "illuminate/filesystem": "^10.17"
+        "php": "^8.0"
     },
     "license": "MIT",
     "autoload": {
