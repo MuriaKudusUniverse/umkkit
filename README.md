@@ -18,7 +18,7 @@ Package Umk Kit adalah package yang digunakan untuk membuat dashboard yang berba
 
 ## Official Documentation
 
-Halaman Dokumentasi sedang dalam pengembangan
+Halaman Dokumentasi dapat dilihat pada [Link Dokumentasi](https://dev.umk.ac.id/umkkit-docs)
 
 
 ## License
